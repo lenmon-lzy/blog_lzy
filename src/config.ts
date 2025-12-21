@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
 	title: "Mizuki",
 	subtitle: "One demo website",
 	siteURL: "https://bloglzy.edgeone.dev/", // 请替换为你的站点URL，以斜杠结尾
-	siteStartDate: "2025-12-15", // 站点开始运行日期，用于站点统计组件计算运行天数
+	siteStartDate: "2025-04-15", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
 

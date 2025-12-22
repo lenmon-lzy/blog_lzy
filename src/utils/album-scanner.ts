@@ -110,7 +110,7 @@ function scanPhotos(folderPath: string, albumId: string): Photo[] {
 			[
 				".jpg",
 				".jpeg",
-				".png",
+				"cover.png",
 				".gif",
 				".webp",
 				".svg",
